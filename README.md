@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akwen01
+- 👋 Hi, I’m @Akwen Ndi
 - 👀 I’m interested in data analytics for informed decision making
 - 🌱 I’m currently learning the basics of data science and machine learning 
 - - 💞️ I’m looking to collaborate on various projects that fit my objectives 
